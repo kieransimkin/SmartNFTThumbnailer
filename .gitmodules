@@ -1,0 +1,3 @@
+[submodule "submodules/SimpleCip54Viewer"]
+	path = submodules/SimpleCip54Viewer
+	url = https://github.com/kieransimkin/SimpleCip54Viewer
